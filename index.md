@@ -2,7 +2,7 @@
 
 **C.Sc. Student, UofM**  
 **+1 (431) 388 5337  
-<gtushar1501@gmail.com>  
+gtushar1501@gmail.com  
 [Linkedin](linkedin.com/in/goyalt)**
 
 ## About me
@@ -64,7 +64,7 @@ I also worked in a group of two for a data analysis
 project, where we worked on observing and 
 predicting trends from a huge data frame in R.
 
->### Interests
+### Interests
 
 * Games
 * Music 
