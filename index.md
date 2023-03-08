@@ -63,5 +63,5 @@ register and self-checkouts.
 with the returns/exchanges for the merchandise. Had 
 been Shining Star for the February 2021.
 
- ## Interests
->* Games, music and cars
+## Interests
+* Games, music and cars
