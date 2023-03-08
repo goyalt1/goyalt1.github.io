@@ -23,7 +23,7 @@ There are a lot of markdown editors available out there. You can use any of them
 2. Add/install the [Markdown Preview Github Styling](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles) extension.  
 This gives you a preview of your markdown document you are working on.  
 3. Create a file named `index.md`. The resume will be saved in this file.  
-*Resume should be saved in **index.md***.
+>Resume should be saved in **index.md**.
 4. You can now write your resume in markdown format.
 
 >Make sure to have your resume ready in markdown file named *index.md* before moving onto next steps.
