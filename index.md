@@ -3,7 +3,7 @@
 **C.Sc. Student, UofM**  
 **+1 (431) 388 5337  
 gtushar1501@gmail.com  
-[Linkedin](linkedin.com/in/goyalt)**
+[Linkedin](https://linkedin.com/in/goyalt)**
 
 ## About me
 I am a computer science student, who is hardworking, 
