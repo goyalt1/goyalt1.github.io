@@ -78,7 +78,7 @@ You now have a `index.md`, `_config.yml` and `README.md`. We are done with all t
 4. Git will start deploying your site. Wait for a few minutes.
 5. The link for your deployed site would be displayed under GitHub Pages. Click it, congratulations!
 
-                                   This is how your hosted resume, a static site will appear. Nice!
+                               This is how your hosted resume, a static site will appear. Nice!
 
 ![Look of the Hosted Resume!](resume.gif)
 
