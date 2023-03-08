@@ -51,7 +51,6 @@ predicting trends from a huge data frame in R.
     * A customer service manager is supposed to lead the 
 front-end team to success, providing help to customers 
 and employees.
-
     * It included managing and coordinating the team to 
 achieve desired results and goals. Recognized for hard 
 work and team spirit.
