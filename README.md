@@ -1,11 +1,11 @@
 ## Purpose 
 
 This readme will guide you on how to host your resume on static site. We will be using GitHub Pages, a static website hosting service by GitHub. 
-> There are a lot of technical documentation tools available out there.  
+>There are a lot of technical documentation tools available out there.  
 Readers interested in knowing more about technical writing tools and process can refer to [Technical Writing (Etter's Principles)](#technical-writing-(etter's-principles)). This section refers to Andrew Etter's principles from Modern Technical Writing and how this document makes use of the same.
 
 ## Pre-requisites
-Windows 11 64x operating system was used for this instance.  
+Windows11 64x operating system was used for this instance.  
 * Resume
 * Markdown
 * GitHub account
@@ -14,7 +14,7 @@ Windows 11 64x operating system was used for this instance.
 
 Markdown is one of the famous markup languages. It can be written using any text editor and is saved in a file with `.md` extension. The resume hosted is also written in markdown. I used Visual Studio (VS) Code to write my resume in markdown.
 
- >If you are new to markdown, here is a [tutorial for learning markdown syntax](md-tut).  
+ >If you are new to markdown, here is a [tutorial for learning markdown syntax](https://www.markdowntutorial.com/).  
 
 
 ### Step 1: Install and Setup VS Code for Markdown.
@@ -25,14 +25,13 @@ This gives you a preview of your markdown document you are working on.
 3. Create a file named `index.md`. The resume will be saved in this file.  
 >Resume should be saved in **index.md**.
 4. You can now write your resume in markdown format.
-
 >Make sure to have your resume ready in markdown file named *index.md* before moving onto next steps.
 
 ### Step 2: Create Account on GitHub.
 GitHub is a distributed version control software and is a very useful tool. You can also upload and save your projects on it.
 1. Go to [GitHub website](https://github.com/) and enter your email to sign up for an account.
 2. Create a password and username.
-3. Select "Just me" and choose the relevant option for student/teacher.
+3. Select *Just me* and choose the relevant option for student/teacher.
 4. Select collaborative coding, automation and CI/CD, client apps, project management and community.
 5. Select the free account.
 
@@ -79,7 +78,7 @@ You now have a `index.md`, `_config.yml` and `README.md`. We are done with all t
 4. Git will start deploying your site. Wait for a few minutes.
 5. The link for your deployed site would be displayed under GitHub Pages. Click it, congratulations!
 
-                    This is how your hosted resume, a static site will appear. Nice!
+                                   This is how your hosted resume, a static site will appear. Nice!
 
 ![Look of the Hosted Resume!](resume.gif)
 
@@ -100,7 +99,7 @@ There are lot more useful tips and concepts in Modern Techincal Writing. The lin
 
 ## More Resources
 * Markdown
-    1. [helloacm.com - Tutorial](md-tut)
+    1. [helloacm.com - Tutorial](https://www.markdowntutorial.com/)
     2. [markdownguide.org - Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet)
 * Github  
     1. [freecodecamp.org - Tutorial for beginners](https://www.freecodecamp.org/news/git-and-github-for-beginners/#prerequisites)
@@ -114,7 +113,7 @@ There are lot more useful tips and concepts in Modern Techincal Writing. The lin
 ## Authors and Acknowledgement
 
 This document and repository is created and maintained by Tushar Goyal.  
-The jekyll theme used in this repository was imported from [this repository](credit).
+The jekyll theme used in this repository was imported from [this repository](https://github.com/pages-themes/midnight.git).
 
 ## FAQs
 
@@ -129,6 +128,3 @@ The jekyll theme used in this repository was imported from [this repository](cre
      * Verify the contents of the configuration file and the code provided.  
      * Check the name of your resume. It must be `index.md`.
      * If you followed the steps exactly; try again in a while as GitHub Pages might be down.
-
-[md-tut]: https://www.markdowntutorial.com/
-[credit]: https://github.com/pages-themes/midnight.git
