@@ -1,12 +1,13 @@
 # Tushar Goyal  
 
-**C.Sc. Student, UofM**  
+**UofM Graduate (2023-2024)**  
 **+1 (431) 388 5337  
 gtushar1501@gmail.com  
 [Linkedin](https://linkedin.com/in/goyalt)**
+goyalt1.github.io
 
 ## About me
-I am a computer science student, who is hardworking, 
+I am a science graduate, who is hardworking, 
 and goal driven. I look forward to acquiring some skills 
 and hands-on experience in the industry. Passionate 
 about learning new skills. I am dedicated and fast 
@@ -21,8 +22,8 @@ and want to develop something in future.
 ## Education
 
 **University of Manitoba** |
-*Bachelor of Science in Computer Science  
-2019-present*
+*Bachelor of Science in General Science  
+2019-2024*
 
 **Sacred Heart Convent School** |
 *High School Diploma  
@@ -55,6 +56,11 @@ and employees.
 achieve desired results and goals. Recognized for hard 
 work and team spirit.
 
+* ### Accounting Office | Wal-Mart/Canada/2023
+    * An accounting office associate concludes the day's 
+activities and remains vigilant for any irregularities. It included 
+generating audits as needed and meticulously documenting any discoveries.
+
 * ### Cashier | Wal-Mart/Canada/2019-2021
     * A cashier is supposed to be helping customer through 
 register and self-checkouts.
@@ -64,4 +70,4 @@ been Shining Star for the February 2021.
 
 ## Interests  
 
-* Games, music and cars
+* Music and cars.
