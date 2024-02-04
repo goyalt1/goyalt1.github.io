@@ -3,7 +3,7 @@
 **UofM Graduate (2023-2024)**  
 **+1 (431) 388 5337  
 gtushar1501@gmail.com  
-[Linkedin](https://linkedin.com/in/goyalt)**
+[Linkedin](https://linkedin.com/in/goyalt)**  
 goyalt1.github.io
 
 ## About me
